@@ -1,24 +1,27 @@
-# Hello, I'm Ming Wang! 👋
+# Welcome to Ming Wang's GitHub Profile! 🌟
 
-## About Me
-I'm currently pursuing a degree in Business Information Technology at Red River College, with an anticipated graduation in April 2025. Before this, I spent two years studying business at McMaster University. My academic journey has equipped me with a solid foundation in both business principles and technical skills.
+## 🙋‍♂️ About Me
+I'm Ming Wang, a passionate student currently enrolled in the Business Information Technology program at Red River College, aiming for graduation in April 2025. My academic path began at McMaster University, where I studied business from September 2020 to April 2022. I am dedicated to merging business acumen with technical prowess.
 
-## Skills
-- **Programming Languages**: Java, C#, JavaScript, PHP
-- **Databases**: PostgreSQL, MySQL, T-SQL
-- **Web Technologies**: HTML, JavaScript, PHP
-- **Other Technologies**: Server Administration, Network Computing
+## 💻 Technical Skills
+- **Programming Languages**: `Java`, `C#`, `JavaScript`, `PHP`
+- **Database Management**: `PostgreSQL`, `MySQL`, `T-SQL`
+- **Web Development**: `HTML`, `JavaScript`, `PHP`
+- **IT Infrastructure**: `Server Administration`, `Network Computing`
 
-## Education
+## 🎓 Education
 - **Business Information Technology**
-  - Red River College (2023-2025)
-- **Business**
-  - McMaster University (2020-2022)
+  - 🏫 Red River College (Jan 2023 - Apr 2025)
+- **Business Studies**
+  - 🏫 McMaster University (Sep 2020 - Apr 2022)
 
-## Interests
-I am particularly interested in the fields of network computing and security. I am eager to apply my skills in real-world scenarios and contribute to projects that enhance security and efficiency in technological environments.
+## 🌐 Career Interests
+I am driven to pursue a career in **Network Computing and Security**. I am enthusiastic about tackling challenges in network security and system efficiency, aiming to make significant contributions to the field.
 
-## Let's Connect
-- [LinkedIn](Your-LinkedIn-URL) - Feel free to connect with me on LinkedIn.
+## 🔗 Connect With Me
+- [[![LinkedIn][1.1]][1]](https://www.linkedin.com/in/wangm236)
+- 📧 [Email me](mailto:your-mingwang@academic.rrc.ca) for collaborations or inquiries.
+
+Feel free to **connect** with me for more insights into my projects and experiences!
 
 
