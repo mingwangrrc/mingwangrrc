@@ -20,7 +20,7 @@ I am driven to pursue a career in **Network Computing and Security**. I am enthu
 
 ## 🔗 Connect With Me
 - **LinkedIn**: [Ming Wang](https://www.linkedin.com/in/wangm236)
-- 📧 [Email me](mingwang@academic.rrc.ca）for collaborations or inquiries.
+- 📧 [Email me](mailto:mingwang@academic.rrc.ca) for collaborations or inquiries.
 
 Feel free to **connect** with me for more insights into my projects and experiences!
 
