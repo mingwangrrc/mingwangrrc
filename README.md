@@ -19,8 +19,8 @@ I'm Ming Wang, a passionate student currently enrolled in the Business Informati
 I am driven to pursue a career in **Network Computing and Security**. I am enthusiastic about tackling challenges in network security and system efficiency, aiming to make significant contributions to the field.
 
 ## 🔗 Connect With Me
-- [[![LinkedIn][1.1]][1]](https://www.linkedin.com/in/wangm236)
-- 📧 [Email me](mailto:your-mingwang@academic.rrc.ca) for collaborations or inquiries.
+- [[![[LinkedIn](https://www.linkedin.com/in/wangm236)][1.1]][1]]
+- 📧 [mailto:your-mingwang@academic.rrc.ca] for collaborations or inquiries.
 
 Feel free to **connect** with me for more insights into my projects and experiences!
 
