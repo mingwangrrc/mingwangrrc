@@ -6,7 +6,7 @@ I'm Ming Wang, a passionate student currently enrolled in the Business Informati
 ## 💻 Technical Skills
 - **Programming Languages**: `Java`, `C#`, `JavaScript`, `PHP`
 - **Database Management**: `PostgreSQL`, `MySQL`, `T-SQL`
-- **Web Development**: `HTML`, `JavaScript`, `PHP`
+- **Web Development**: `HTML`,`CSS`, `JavaScript`, `PHP`
 - **IT Infrastructure**: `Server Administration`, `Network Computing`
 
 ## 🎓 Education
