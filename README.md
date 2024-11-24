@@ -10,7 +10,7 @@ I'm Ming Wang, a passionate student currently enrolled in the Business Informati
 
 ## 💻 Technical Skills
 
-- **Programming Languages**: `Java`, `C#`, `JavaScript`, `Kotlin`
+- **Programming Languages**: `Java`, `C#`
 - **Web Development**: `HTML`, `CSS`, `JavaScript`, `PHP`, `Ruby on Rails`
 - **Mobile Development**: `Android Studio (Kotlin)`
 - **Database Management**: `PostgreSQL`, `MySQL`, `T-SQL`
