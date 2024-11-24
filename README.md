@@ -19,10 +19,13 @@ I'm Ming Wang, a passionate student currently enrolled in the Business Informati
 
 ## 🎓 Education
 
-- **Business Information Technology** (Diploma)
-  🏢 Red River College (Jan 2023 - Apr 2025)
-- **Business/Commerce, General** (Bachelor's Degree, 2 years)
-  🏢 McMaster University (Sep 2020 - Apr 2022, transferred to Red River College)
+### Red River College
+- **Diploma** in Business Information Technology
+  - *Jan 2023 - Apr 2025*
+
+### McMaster University
+- **Bachelor's Degree** in Business/Commerce, General (2 years)
+  - *Sep 2020 - Apr 2022 (Transferred to Red River College)*
 
 ## 🌐 Career Interests
 
